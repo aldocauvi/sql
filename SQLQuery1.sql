@@ -1,7 +1,7 @@
 use test2_db;
 insert into orders values('101','111','01.01.2020','01.02.2020','10.00','Walter Spamer','20378 e country club dr kendall','5');
-insert into orders values('102','112','01.02.2020','01.03.2020','15.00','Ruben Garcia','123 Killian pkwy','10');
-insert into orders values('103','113','01.02.2020','01.04.2020','25.00','Diego Cabrera','321 kendall ave','8');
+insert into orders values('102','112','01.02.2020','01.03.2020','15.00','Ruben Blades','123 Killian pkwy','10');
+insert into orders values('103','113','01.02.2020','01.04.2020','25.00','Diego Arigatoe','321 kendall ave','8');
 insert into orders values('104','114','01.04.2020','01.05.2020','3.00','Hector Chumpitaz','345 Sunny isles blvd','5');
 insert into orders values('105','115','01.01.2020','01.03.2020','11.00','Aldo Struhenbach','654 biscayne bld','15');
 insert into orders values('106','116','01.05.2020','01.06.2020','35.00','Sasha Masha','777 Dixie hwy','10');
